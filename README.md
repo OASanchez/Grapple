@@ -29,6 +29,7 @@ All Scripting files are available and written in C# using Visual Studio.
 
 
 **Disclaimer**
-All assets have been excluded from this repo upload to make it a lightweight download and run.  Only the executable and scripting files are available so that the game may be played and the main code can be read.
+
+All assets have been excluded from this repo upload to make it a lightweight download and run.  Only the executable and scripting files are available so that the game may be played and the main code can be read.  This file was originally named Platformer445 to conform with class standards and must stay the same for the game to run correctly due to constraints set by Unity's development environment.
 
 Many processes were done using Unity's built-in tools and functions and the full project with all metadata, assets, and Unity configuration is available upon request.
