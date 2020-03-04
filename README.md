@@ -3,6 +3,7 @@ Grapple Game made by Osvaldo Sanchez, Christian Ferguson, and Jiahao Deng for CS
 
 
 **Creation Details**
+
 Levels 1-3 + 10 were fully developed by Osvaldo Sanchez.  Along with polishing all following levels visually and mechanically after original submission.
 
 Levels 4-6 were conceptualized by Jiahao Deng
@@ -20,10 +21,11 @@ All Scripting files are available and written in C# using Visual Studio.
 
 
 **How to Run**
-1. Download the Repo
-2. Open Grapple -> Grapple Game
-3. Launch Platformer445.exe
-4. Done!
+1. Download the Repo OR just the Grapple Game.zip
+2. Find .zip and relocate to desired location
+3. Unzip Folder
+4. Launch Platformer445.exe
+5. Enjoy the game!
 
 
 **Disclaimer**
