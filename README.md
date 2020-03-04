@@ -21,8 +21,8 @@ All Scripting files are available and written in C# using Visual Studio.
 
 **How to Run**
 1. Download the Repo
-2. Open Grapple Folder
-3. Launche Grapple.exe
+2. Open Grapple -> Grapple Game
+3. Launch Platformer445.exe
 4. Done!
 
 
